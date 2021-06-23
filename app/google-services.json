@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2911430568",
+    "firebase_url": "https://hc-database-5c121-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hc-database-5c121",
+    "storage_bucket": "hc-database-5c121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2911430568:android:1b7501bb82509b89125f9d",
+        "android_client_info": {
+          "package_name": "com.example.psm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2911430568-3emuvs3a97acn74joins7lo3vr7haisc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0n8QT1ORV9M69YNHG7T_UlOZxlzymQxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2911430568-3emuvs3a97acn74joins7lo3vr7haisc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

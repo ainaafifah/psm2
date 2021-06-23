@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboardFragment"
+        android:title="Real-time Data"
+        android:icon="@drawable/ic_realtime_data" />
+    <item
+        android:id="@+id/secondFragment"
+        android:title="Camera Filter"
+        android:icon="@drawable/ic_camera" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:title="Profile"
+        android:icon="@drawable/ic_person"/>
+</menu>
